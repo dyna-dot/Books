@@ -25,7 +25,6 @@ Delete and Edit options are only for the books that are in the inventory.
 ** Installation and Running the server **
 
 Create a virtual environment.
-git clone https://github.com/Manikaran20/Books-Inventory.git
 ** Install Requirements **
 
 pip install -r requirements.txt
